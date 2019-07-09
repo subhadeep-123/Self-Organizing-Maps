@@ -1,1 +1,1 @@
-# Self-Organizing-Maps-Implementation
+## Self Organizing Maps 
